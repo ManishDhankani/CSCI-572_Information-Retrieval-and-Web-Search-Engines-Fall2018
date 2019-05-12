@@ -1,0 +1,44 @@
+Name:Manish Suresh Dhankani
+USC-ID: 8605754465
+News site crawled: https://www.wsj.com/
+
+Fetch Statistics
+================
+# fetches attempted:19998
+# fetches succeeded:18779
+# fetches aborted or failed: 1219
+
+Outgoing URLs:
+==============
+Total URLs extracted: 5312725
+# unique URLs extracted: 1048575
+# unique URLs within News Site: 69868
+# unique URLs outside News Site: 978707
+
+Status Codes:
+=============
+200 OK: 18779
+301 Moved Permanently: 1134
+302 Found (Previously "Moved temporarily"): 63
+401 Unauthorized: 0
+403 Forbidden: 1
+404 Not Found:21
+
+File Sizes:
+===========
+< 1KB: 2
+1KB ~ <10KB: 3
+10KB ~ <100KB: 444
+100KB ~ <1MB: 4000
+>= 1MB: 14332
+
+Content Types:
+==============
+text/html: 18772
+text/css: 0
+text/csv: 0
+image/jpeg: 5
+image/png: 2
+application/pdf: 0
+
+
